@@ -1,8 +1,6 @@
 # fas
 Funding and Support
 
-
-
 ## Beta assesment Artefacts (Research)
 - [Customer Journey - Beta] ()
 - [Personas - Beta]()
