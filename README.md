@@ -1,5 +1,4 @@
-# fas
-Funding and Support
+# Funding and Support (fas)
 
 ## Beta assesment Artefacts (Research)
 - [Customer Journey - Beta] ()
